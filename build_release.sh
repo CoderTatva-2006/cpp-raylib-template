@@ -1,0 +1,1 @@
+g++ main.cpp -o main.exe -O2 -Wall -Wno-missing-braces -L lib/raylib/ -I include/ -lraylib -lopengl32 -lgdi32 -lwinmm -mwindows
